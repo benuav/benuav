@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ben Li </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ben Li, and I want to be:  </h1>
 <h3 align="center"> Software Developer | Machine Learning Researcher | Robot mechanic | Penetration Tester </h3>
 
   <p align="center">
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <em>
-    Hello, I am a  <a href="https://www.griffith.edu.au/"> <b> Software Developer <br> </a>
+  <!--  Hello, I am a  <a href="https://www.griffith.edu.au/"> <b> Software Developer <br> </a>-->
     <b>I am passionate self-learner</b> and a <b> software developer who is obsessed with Deep Learning and Rbotics.<br>
   </em> 
   "#$%^&”
