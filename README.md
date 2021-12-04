@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Call me: ***Ben*** 😊 <br>
-✔ I’m currently looking for a job <br>
+✔ I’m currently Working as Software Developer <br>
 ✔ I’m currently learning about **deep learning**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br><br><br><br>
+✔ Ask from me anything you want, If I am alive I will answer 😉<br><br><br><br>
