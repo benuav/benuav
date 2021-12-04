@@ -1,25 +1,10 @@
-### Hi there 👋
-
-<!--
-**benuav/benuav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align="center">
   <img src="https://media2.fdncms.com/clevescene/imager/u/original/37538297/dune.jpeg" height="200"/>
 </p>
 <br>
 
+<!--
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=benuav&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Age-28-blue" />
@@ -28,6 +13,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Chinese-brightgreen" />
 </p>
 <hr>
+-->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ben Li, and I want to be:  </h1>
 <h3 align="center"> Software Developer | Machine Learning Researcher | Robot mechanic | Penetration Tester </h3>
@@ -37,7 +23,6 @@ Here are some ideas to get you started:
   <!--  Hello, I am a  <a href="https://www.griffith.edu.au/"> <b> Software Developer <br> </a>-->
     <b>I am passionate self-learner</b> and a <b> software developer who is obsessed with Deep Learning and Rbotics.<br>
   </em> 
-  "#$%^&”
 </p>
   
 <p align="center">
